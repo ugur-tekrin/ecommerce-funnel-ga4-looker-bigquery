@@ -23,7 +23,7 @@ The goal of this project is to understand how users move from session start to p
 
 ## Dashboard
 Looker Studio dashboard link:  
-PASTE_YOUR_LOOKER_LINK_HERE
+https://datastudio.google.com/s/ozvmHsy3nHc
 
 ## SQL
 The SQL query used for this project is included in the `sql` folder.
