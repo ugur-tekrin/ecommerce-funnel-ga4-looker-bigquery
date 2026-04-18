@@ -3,6 +3,8 @@
 
 This project analyzes user behavior across the e-commerce funnel using GA4 event data.
 
+![Dashboard](dashboard/dashboard_screenshot.png)
+
 ## Project Goal
 The goal of this project is to understand how users move from session start to purchase and identify drop-off points in the funnel.
 
